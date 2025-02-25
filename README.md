@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @39053522
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...l
-- ⚡ Fun fact: ...
-
-<!---
-39053522/39053522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Raeli Lentauwo 
+- 👀 I’m interested in working on my better self 
+- 🌱 I’m currently learning computer programming 
+- 💞️ I’m looking to collaborate on International Youth Fellowship 
+- 📫 How to reach me: Through phone number (0797625492/0795221062)
+- 😄 Pronouns: I,she,her
+- ⚡ Fun fact:I like watching movies and soccer games, also I Love drama alot
